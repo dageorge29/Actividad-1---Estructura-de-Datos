@@ -10,13 +10,13 @@ Para ejecutar el programa, sigue estos pasos:
 
 1. Asegúrate de tener Java instalado en tu sistema (JDK 20 o superior. Código hecho y probado en el JDK 25 de Java, en Fedora, Linux).
 2. Clona o descarga el repositorio del proyecto en tu máquina local.
-3. Compila el código fuente o usa un IDE como Eclipse o IntelliJ IDEA para ejecutar el programa. Si prefieres usar la línea de comandos, navega hasta el directorio src donde se encuentra el archivo `Solucion.java` o ejecuta el siguiente comando para compilarlo manualmente:
+3. Compila el código fuente o usa un IDE como Eclipse o IntelliJ IDEA para ejecutar el programa. Si prefieres usar la línea de comandos, navega hasta el directorio src donde se encuentra el archivo `Solucion.java` y ejecuta el siguiente comando para compilarlo manualmente:
    ```
-   javac src/Solucion.java
+   javac Solucion.java
    ```
 4. Ejecuta el programa:
    ```
-   java -cp src Solucion
+   java Solucion
    ```
 5. Sigue las instrucciones en pantalla para ingresar los 7 números para cada arreglo.
 
