@@ -1,4 +1,4 @@
-# Actividad 1 - DSA
+# Actividad 1 - DSA. Por Jorge Andrés Murillo Rivera
 
 ## Objetivo del proyecto
 
