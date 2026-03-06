@@ -22,7 +22,7 @@ Para ejecutar el programa, sigue estos pasos:
 
 ## Capturas de pantalla de la ejecución
 
-Aquí se incluye una simulación de la salida del programa con entradas de ejemplo (primer arreglo: 10,20,30,40,50,60,70; segundo arreglo: 1,2,3,4,5,6,7):
+Aquí se incluye una simulación de la salida del programa con entradas de ejemplo, siendo leídos de la forma: Uno del primer array y otro del segundo array, y así sucesivamente. Datos: (primer arreglo: 10,20,30,40,50,60,70; segundo arreglo: 1,2,3,4,5,6,7):
 
 -----------------------
 Ingreso de datos de los dos arrays con un solo for:
