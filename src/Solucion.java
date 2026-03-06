@@ -32,7 +32,7 @@ public class Solucion {
 
             System.out.println("-----");
 
-            System.out.println("Ingreas un número para el segundo array");
+            System.out.println("Ingresa un número para el segundo array");
             array2[i] = input.nextInt();
         }
 
