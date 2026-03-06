@@ -2,21 +2,10 @@ import java.util.Scanner;
 
 public class Solucion {
     static void main(String[] args) {
-        /*
 
-    To do:
-        Definir dos arreglos unidimensionales que permitan almacenar 7 números ingresados por el usuario.
-
-        Llenar un tercer arreglo con la diferencia de los dos primeros arreglos. Mostrar el promedio de todos los datos.
-
-        Mostrar todos y cada uno de los datos del tercer arreglo.
-
-         Implementar el código en el lenguaje de programación Java
-         */
-
-        //Instanciación
         Scanner input = new Scanner(System.in);
 
+        //Definición de arrays
         int[] array1, array2;
         Double[] array3;
 
