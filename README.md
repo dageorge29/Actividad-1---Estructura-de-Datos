@@ -38,6 +38,8 @@ Ingreso de datos de los dos arrays con un solo for:
 
 
 Datos del tercer array:
+
+
 <img width="276" height="256" alt="image" src="https://github.com/user-attachments/assets/69a28059-b779-4f67-a813-e5b427636c85" />
 
 
