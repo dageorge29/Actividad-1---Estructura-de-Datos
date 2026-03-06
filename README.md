@@ -27,26 +27,30 @@ Aquí se incluye una simulación de la salida del programa con entradas de ejemp
 -----------------------
 Ingreso de datos de los dos arrays con un solo for:
 
-<img width="433" height="548" alt="image" src="https://github.com/user-attachments/assets/524857ad-b540-4d70-9349-0f499aa164c8" />
+<img width="461" height="397" alt="image" src="https://github.com/user-attachments/assets/693361e6-90e0-42be-a280-90b8f787e7f8" />
+
 
 
 
 (repetido para 7 pares)
 
-<img width="425" height="417" alt="image" src="https://github.com/user-attachments/assets/fc370b8b-ba1d-42bd-8b7e-76645472fa27" />
+<img width="513" height="549" alt="image" src="https://github.com/user-attachments/assets/945ece9e-39c0-4fca-ad4a-8027c54233c6" />
+
 
 
 
 Datos del tercer array:
 
 
-<img width="276" height="256" alt="image" src="https://github.com/user-attachments/assets/69a28059-b779-4f67-a813-e5b427636c85" />
+<img width="308" height="270" alt="image" src="https://github.com/user-attachments/assets/9ca7d330-8ba4-442d-892f-0aae70ab948b" />
+
 
 
 
 El promedio total del tercer array es de: 36
 
-<img width="481" height="55" alt="image" src="https://github.com/user-attachments/assets/6ce72ba2-6fa5-4b6c-8b61-7c01a4800651" />
+<img width="484" height="46" alt="image" src="https://github.com/user-attachments/assets/d57632a3-60de-4119-965b-547cb1f201ef" />
+
 
 ---------------
 
