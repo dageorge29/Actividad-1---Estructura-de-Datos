@@ -27,19 +27,23 @@ Aquí se incluye una simulación de la salida del programa con entradas de ejemp
 ```
 -----------------------
 Ingreso de datos de los dos arrays con un solo for:
-![img.png](img.png)
+<img width="433" height="548" alt="image" src="https://github.com/user-attachments/assets/524857ad-b540-4d70-9349-0f499aa164c8" />
+
 
 
 (repetido para 7 pares)
-![img_1.png](img_1.png)---------------
+<img width="425" height="417" alt="image" src="https://github.com/user-attachments/assets/fc370b8b-ba1d-42bd-8b7e-76645472fa27" />
+
 
 
 Datos del tercer array:
-![img_2.png](img_2.png)
+<img width="276" height="256" alt="image" src="https://github.com/user-attachments/assets/69a28059-b779-4f67-a813-e5b427636c85" />
+
 
 
 El promedio total del tercer array es de: 36
-![img_3.png](img_3.png)
+<img width="481" height="55" alt="image" src="https://github.com/user-attachments/assets/6ce72ba2-6fa5-4b6c-8b61-7c01a4800651" />
+
 ---------------
 ```
 
