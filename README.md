@@ -24,7 +24,6 @@ Para ejecutar el programa, sigue estos pasos:
 
 Aquí se incluye una simulación de la salida del programa con entradas de ejemplo (primer arreglo: 10,20,30,40,50,60,70; segundo arreglo: 1,2,3,4,5,6,7):
 
-```
 -----------------------
 Ingreso de datos de los dos arrays con un solo for:
 <img width="433" height="548" alt="image" src="https://github.com/user-attachments/assets/524857ad-b540-4d70-9349-0f499aa164c8" />
@@ -47,8 +46,6 @@ El promedio total del tercer array es de: 36
 ---------------
 ```
 
-*(Nota: Para capturas reales, ejecuta el programa y toma screenshots de la consola.)*
-
 ## Contribuyentes (integrantes del grupo)
 
-- George (Desarrollador principal)
+- George (Jorge Andrés Murillo Rivera) (Desarrollador)
