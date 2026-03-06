@@ -24,7 +24,7 @@ Para ejecutar el programa, sigue estos pasos:
 6. Sigue las instrucciones en pantalla para ingresar los 7 números para cada arreglo.
    
 ## Nota:
-En caso de ver el archivo en repositorio, desplazarse al directorio "src" y abrir en archivo "Solucion.java.
+En caso de ver el archivo en repositorio, desplazarse al directorio "src" y abrir el archivo "Solucion.java".
 <img width="940" height="57" alt="image" src="https://github.com/user-attachments/assets/28a82cde-72a5-4baf-b329-3d18d0f3e86f" />
 
 <img width="1590" height="147" alt="image" src="https://github.com/user-attachments/assets/4086a1f8-238c-44ad-afb0-e1624e0534ed" />
