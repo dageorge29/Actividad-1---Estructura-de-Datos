@@ -17,7 +17,6 @@ public class Solucion {
         //Instanciación
         Scanner input = new Scanner(System.in);
 
-
         int[] array1, array2;
         Double[] array3;
 
@@ -26,8 +25,9 @@ public class Solucion {
         array3 = new Double[7];
 
         //Llenado de arrays
+        System.out.println("-----------------------");
         for (int i = 0; i < 7; i++) {
-            System.out.println("Ingreas un número para el primer array");
+            System.out.println("Ingresa un número para el primer array:");
             array1[i] = input.nextInt();
 
             System.out.println("-----");
@@ -41,8 +41,23 @@ public class Solucion {
         int aux = 0; //contador adicional para evitar conflictos
         for (int i = 0; i < array3.length; i++) {
             array3[aux++] = (double) array1[i] - array2[i];
+        }
+
+        System.out.println("---------------\nDatos del tercer array:\r\n");
+        //promedio
+        double promedio; double suma = 0; //variable auxiliar como acumulador
+        int aux2 = 0;
+        int contadorExplicacion = 1;
+        for (int i = 0; i < array3.length; i++) {
+            suma += array3[i];
+            System.out.println("Dato " + contadorExplicacion++ + " = " + array3[aux2++]);
 
         }
+        promedio = suma / array3.length;
+        System.out.println("\rEl promedio total del tercer array es de: " + promedio);
+        System.out.println("---------------");
+
+
 
 
 
