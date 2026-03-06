@@ -52,6 +52,7 @@ El promedio total del tercer array es de: 36
 <img width="484" height="46" alt="image" src="https://github.com/user-attachments/assets/d57632a3-60de-4119-965b-547cb1f201ef" />
 
 
+Y así, finaliza el programa con todos los datos finales y resultados.
 ---------------
 
 
